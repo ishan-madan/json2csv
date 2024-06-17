@@ -40,7 +40,7 @@ JSON 2 CSV is a python program that simplifies the conversion of JSON files to t
      ```
      python --version
      ```
-   - If you dont have it installed, head to [python.org](python.org) to install. Alternatively, if you have homebrew installed, type
+   - If you don't have it installed, head to [python.org](python.org) to install. Alternatively, if you have homebrew installed, type
      ```
      brew install python
      ```
