@@ -97,7 +97,7 @@ JSON 2 CSV is a python program that simplifies the conversion of JSON files to t
    - **Step 4: Convert**
      - The program will convert your `json` file and save it as a `csv` file to that same folder!
    <p align="center">
-   <img src="ReadMe%20Images/step5.png" height="60%" width="60%" alt="Convert JSON to CSV"/>
+   <img src="ReadMe%20Images/step4.png" height="60%" width="60%" alt="Convert JSON to CSV"/>
    </p>
 
 
