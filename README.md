@@ -49,21 +49,21 @@ JSON 2 CSV is a python program that simplifies the conversion of JSON files to t
      <br/>
        - MacOS:
          ```
-         python -m venv ~/myenv
-         myenv\Scripts\activate.bat
-         pip install pandas  
+         python -m venv venv
+         source venv/bin/activate
+         pip install pandas
          ```
        - Windows:
          ```
-         python -m venv myenv
-         source ~/myenv/bin/activate
+         python -m venv venv
+         venv\Scripts\activate
          pip install pandas  
          ```
        - Linux:
          ```
-         python -m venv myenv
-         source ~/myenv/bin/activate
-         pip install pandas  
+         python -m venv venv
+         source venv/bin/activate
+         pip install pandas
          ```
    - Finally, navigate to the folder where the script has been cloned
      ```
